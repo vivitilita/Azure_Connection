@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Azure_Connection
 =======
 # Accessing Azure Blob Storage with Python
@@ -47,6 +46,3 @@ For more information on accessing Azure Blob Storage with Python, see the [Azure
 
 This example script is for demonstration purposes only and is not intended for use in production environments. 
 
-
-
->>>>>>> efb52a3 (First commit)
