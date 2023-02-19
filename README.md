@@ -1,4 +1,4 @@
-# Azure_Connection
+# Azure Cloud Connection
 =======
 # Accessing Azure Blob Storage with Python
 
@@ -19,9 +19,9 @@ To run these examples, you need:
 
 1. Set the following environment variables in a `.env` file:
 
-> connection_string=<your_connection_string>
-> container_name=<your_container_name>
-> file_path=<your_file_path>
+- connection_string=<your_connection_string>
+- container_name=<your_container_name>
+- file_path=<your_file_path>
 
 2. Run the code in `connection_string.py` to download the blob, modify it, and upload it to the container with a new file name.
 
@@ -31,7 +31,7 @@ To run these examples, you need:
 
 1. Set the following environment variable in a `.env` file:
 
-> blob_url=<your_blob_url_with_sas_token>
+- blob_url=<your_blob_url_with_sas_token>
 
 2. Run the code in `sas_token.py` to download the blob, modify it, and upload it to the container with a new file name.
 
